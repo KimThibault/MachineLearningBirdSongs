@@ -1,6 +1,16 @@
 # MachineLearningBirdSongs
 ## Machine learning to identify birds by their songs
 
+### Glossary
+SVM
+: Support Vector Machine. An algorithm which optimizes the line between data classes so that it maximizes the distance of the data points to the line.  
+
+Train set
+: The data set used for training the algorithm.  
+
+Test set 
+: The data set used for testing the algorithm. It is distinct from the train set.  
+
 ### Method used
 An attempt is made at classifying birds with an **SVM**.
 
