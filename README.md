@@ -13,7 +13,7 @@ The following table shows the features and C parameters used, as well as the wei
 |-------|----|------------|
 |2 & 3|1| -0.75022 and -1.56886|
 |2 & 3|10| 2.2776 and -5.3091|
-|2 &3 |100|3.1330 and -6.6089|
+|2 & 3|100|3.1330 and -6.6089|
 
 ### Issues
 - The train data has distinct ids to signify distinct species. 
@@ -28,4 +28,5 @@ The test set is therefore *unclassified*, making accuracy evaluation impossible.
 ### Conclusion
 Project aborted. The data set does not allow accuracy evaluation. 
 
-[Birds' Songs Dataset from Kaggle]https://www.kaggle.com/fleanend/birds-songs-numeric-dataset
+### Dataset
+[Birds' Songs Dataset from Kaggle] https://www.kaggle.com/fleanend/birds-songs-numeric-dataset
