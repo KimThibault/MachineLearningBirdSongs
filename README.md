@@ -24,7 +24,7 @@ The following table shows the features and C parameters used, as well as the wei
 |2 & 3|1| -0.75022 and -1.56886|
 |2 & 3|10| 2.2776 and -5.3091|
 |2 & 3|100|3.1330 and -6.6089|
-|~~2 & 20|10|NaN and NaN~~|
+|~~2 & 20~~|10|NaN and NaN|
 
 ### Issues
 - The train data has distinct ids to signify distinct species. 
