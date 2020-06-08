@@ -3,13 +3,13 @@
 
 ### Glossary
 SVM
-: Support Vector Machine. An algorithm which optimizes the line between data classes so that it maximizes the distance of the data points to the line.  
+: Support Vector Machine. An algorithm which optimizes the separation between data classes so that the distance of the data points to the separation is maximized.  
 
 Train set
-: The data set used for training the algorithm.  
+: The data set used to train the algorithm.  
 
 Test set 
-: The data set used for testing the algorithm. It is distinct from the train set.  
+: The data set used to test the algorithm. It is distinct from the train set.  
 
 ### Method used
 An attempt is made at classifying birds with an **SVM**.
@@ -24,6 +24,7 @@ The following table shows the features and C parameters used, as well as the wei
 |2 & 3|1| -0.75022 and -1.56886|
 |2 & 3|10| 2.2776 and -5.3091|
 |2 & 3|100|3.1330 and -6.6089|
+|~~2 & 20|10|NaN and NaN~~|
 
 ### Issues
 - The train data has distinct ids to signify distinct species. 
